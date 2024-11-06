@@ -50,7 +50,7 @@ map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
 ##########
 # TIMELINE PAGE
 #
-year-navigation: #"1900;1905;1910;1915;1920" # set years to appear in dropdown nav, leave blank to auto gen
+year-navigation: "2020;2021;2022;2023;2024" # set years to appear in dropdown nav, leave blank to auto gen
 year-nav-increment: 5 # set increments when auto gen nav years
 
 ##########
@@ -85,7 +85,7 @@ search-child-objects: true # true / false - if true, child objects will appear o
 navbar-color: navbar-dark
 # navbar background color
 # Choose from bg-primary, bg-secondary, bg-success, bg-danger, bg-warning, bg-info, bg-light, bg-dark, bg-white
-navbar-background: bg-dark
+navbar-background: bg-success
 
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
@@ -94,8 +94,8 @@ bootswatch: # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#191919"
-link-color: "#0d6efd"
+text-color: "#134e13"
+link-color: "#8b2222"
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
