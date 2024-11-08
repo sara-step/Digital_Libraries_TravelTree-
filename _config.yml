@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Travel Tree
+title: Travel Tree 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Souvenirs from around the World 2020 - Present.
+tagline: Souvenirs from World Travels 2020- Present 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A collection of Sarah Stephenson's Travels From 2020 to Present."
+description: "This is a collection of Sarah Stephenson's travel souvenirs from 2020 to now."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Sarah Stephenson
 
@@ -34,7 +34,7 @@ author: Sarah Stephenson
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata
+metadata: traveltree_metadata
 
 ##########
 # Site/Organization Branding 
@@ -49,7 +49,7 @@ metadata: demo-metadata
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
