@@ -8,7 +8,7 @@ Locations,/locations.html
 Map,/map.html
 Timeline,/timeline.html
 Data,,
-Data,/data.html,data
-Meta Data Map,/metadatamap.html, data
+Data,/data.html,Data
+Meta Data Map,/metadatamap.html,Data
 About,/about.html
 
