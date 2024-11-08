@@ -1,5 +1,6 @@
 display_name,stub,dropdown_parent
 Home,/
+Context,/context.html
 Browse,,
 Location,/locationbrowse.html,Browse
 Trip,/tripbrowse.html,Browse
@@ -10,5 +11,4 @@ Timeline,/timeline.html
 Data,,
 Data,/data.html,Data
 Meta Data Map,/metadatamap.html,Data
-About,/about.html
 
