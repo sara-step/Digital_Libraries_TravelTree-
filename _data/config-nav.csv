@@ -5,6 +5,7 @@ Subjects,/subjects.html
 Locations,/locations.html
 Map,/map.html
 Timeline,/timeline.html
-Data,/data.html
-About,/about.html
+Data,/data.html,,
 Meta Data Map,/metadatamap.html
+About,/about.html
+
