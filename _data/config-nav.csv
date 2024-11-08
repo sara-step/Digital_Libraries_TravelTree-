@@ -2,6 +2,7 @@ display_name,stub,dropdown_parent
 Home,/
 Browse,,
 Location,/locationbrowse.html,Browse
+Trip,/tripbrowse.html,Browse
 Subjects,/subjects.html
 Locations,/locations.html
 Map,/map.html
