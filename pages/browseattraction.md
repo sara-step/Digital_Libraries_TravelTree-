@@ -1,6 +1,12 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2761
-\cocoatextscaling0\cocoaplatform0{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-}
+---
+title: Browse by Attraction
+layout: cloud
+permalink: /attractionbrowse.html
+#Default locations page is configured in "_data/theme.yml"
+#leave cloud-fields as "site.data.theme.locations-fields"
+#a cloud visualization will be added below the content in this file
+
+cloud-fields: site.data.theme.type-fields
+
+---
+## Browse Items by Attraction Type
