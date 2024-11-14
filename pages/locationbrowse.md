@@ -1,6 +1,6 @@
 title: Browse by Locations
 layout: cloud
-permalink: /locationbrowse.html
+permalink: /browselocation.html
 # Default locations page is configured in "_data/theme.yml"
 # leave cloud-fields as "site.data.theme.locations-fields"
 # a cloud visualization will be added below the content in this file
