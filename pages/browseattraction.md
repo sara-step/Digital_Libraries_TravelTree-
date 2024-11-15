@@ -6,7 +6,7 @@ permalink: /attractionbrowse.html
 #leave cloud-fields as "site.data.theme.locations-fields"
 #a cloud visualization will be added below the content in this file
 
-cloud-fields: site.data.theme.type-fields
+cloud-fields: type
 
 ---
 ## Browse Items by Attraction Type
