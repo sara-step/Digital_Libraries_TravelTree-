@@ -7,4 +7,4 @@ cloud-fields: site.data.theme.locations-fields
 
 ---
 
-
+## Browse Items by Location
