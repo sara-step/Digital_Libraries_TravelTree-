@@ -2,7 +2,7 @@ display_name,stub,dropdown_parent
 Home,/
 Context,/context.html
 Browse,,
-Location, /browselocation.html,Browse
+Location,/browse_location.html,Browse
 Trip,/tripbrowse.html,Browse
 Attraction,/attractionbrowse.html,Browse
 Companion,/companionbrowse.html,Browse
