@@ -18,5 +18,5 @@ This was generated via [Github Pages](https://github.com) using [Collection Buil
 - A CSV of Metadata
 - A Collection of jpeg objects
 
-# Metadata Standards 
+## Metadata Standards 
 The Metadata standards for this project were based on the metadata application profile for this project. This metadata application profile included fourteen elements all of which, were mapped to their corresponding Dublin Core elements. For more information on the metadata application profile see the Metadata MAP page of this website.
