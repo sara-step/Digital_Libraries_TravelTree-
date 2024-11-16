@@ -13,3 +13,10 @@ This collection features 32 keychains and ornaments from various travel destinat
 ## Users
  It is anticipated that this project will primarily be used by Sarah Stephensons, the owner of the Travel Tree ornaments, and the creation of this project as this project is based on her personal travel experiences. The digital collection will serve as a resource for Sarah to reflect on her journeys and the memories associated with each ornament and keychain. Additionally, potential secondary users could include friends and family members Sarah traveled with, who may find value in exploring the collection and reminiscing about shared experiences.
  
+## About This Site
+This was generated via [Github Pages(https://github.com)] using [Collection Builder](https://collectionbuilder.github.io) a project to create a free and simple digital collection using:
+- A CSV of Metadata
+- A Collection of jpeg objects
+
+# Metadata Standards 
+The Metadata standards for this project were based on the metadata application profile for this project. This metadata application profile included fourteen elements all of which, were mapped to their corresponding Dublin Core elements. For more information on the metadata application profile see the Metadata MAP page of this website.
