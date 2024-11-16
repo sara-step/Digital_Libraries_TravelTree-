@@ -3,3 +3,4 @@ trip,Trip,,,
 companion,Companion,,,
 date,Date,,,Date Purchased
 location,Location,,,Location Purchased
+type,Attraction Type,,,
