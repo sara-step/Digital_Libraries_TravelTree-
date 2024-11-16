@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
-Trip,Trip,,,
-Companion,Companion,,,
-Date,Date,,,Date Purchased
-Location,Location,,,Location Purchased
+trip,Trip,,,
+companion,Companion,,,
+date,Date,,,Date Purchased
+location,Location,,,Location Purchased
