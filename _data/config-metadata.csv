@@ -5,11 +5,11 @@ date,Date Purchased,
 description,Description,
 subject,Subjects,true
 location,Location
-longitude,Longitude
 source,Source
 identifier,Source Identifier,,
 type,Type,
+personal note,Personal Note,true
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
-note,Personal Note,true
+
