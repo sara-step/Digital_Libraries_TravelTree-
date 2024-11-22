@@ -8,6 +8,7 @@ location,Location
 source,Source
 identifier,Source Identifier,,
 type,Type,
+companion,Companion
 personal note,Personal Note,
 format,Format,
 rights,Rights,
